@@ -1,0 +1,14 @@
+# Keep source, project configuration, data and evidence.
+.vs/
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+*.user
+*.suo
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.ipch
