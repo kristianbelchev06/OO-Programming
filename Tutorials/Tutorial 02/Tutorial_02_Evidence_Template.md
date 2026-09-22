@@ -7,15 +7,15 @@ Final commit identifier:
 
 ## 01 · Create a toolkit with known data
 
-Prediction before running: 
+Prediction before running: It will give me an error or garbage values
 
-Observed result: 
+Observed result: It gave me a garbage value
 
-Explanation in my own words: 
+Explanation in my own words: Since we don't have a 3rd variable in the array it gives us a garbage value
 
-Modification/test performed: 
+Modification/test performed: After typing 0,1 or 2 and not 3 for the array, the needed value appeared.
 
-What I repaired or still need to understand: 
+What I repaired or still need to understand: I repaired the \n, since it I used the wrong line before the n the code did not work and it kept giving me garbage values
 
 ## 02 · Let a function change the caller's values
 
