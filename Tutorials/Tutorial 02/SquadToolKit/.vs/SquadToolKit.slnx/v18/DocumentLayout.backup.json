@@ -26,28 +26,28 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Squad.cpp",
-              "DocumentMoniker": "M:\\00 Programming GIT\\Tutorials\\Tutorial 02\\SquadToolKit\\Project1\\Squad.cpp",
-              "RelativeDocumentMoniker": "Project1\\Squad.cpp",
-              "ToolTip": "M:\\00 Programming GIT\\Tutorials\\Tutorial 02\\SquadToolKit\\Project1\\Squad.cpp",
-              "RelativeToolTip": "Project1\\Squad.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-09-22T08:57:09.246Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Squad.h",
               "DocumentMoniker": "M:\\00 Programming GIT\\Tutorials\\Tutorial 02\\SquadToolKit\\Project1\\Squad.h",
               "RelativeDocumentMoniker": "Project1\\Squad.h",
               "ToolTip": "M:\\00 Programming GIT\\Tutorials\\Tutorial 02\\SquadToolKit\\Project1\\Squad.h",
               "RelativeToolTip": "Project1\\Squad.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-09-22T08:57:00.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Squad.cpp",
+              "DocumentMoniker": "M:\\00 Programming GIT\\Tutorials\\Tutorial 02\\SquadToolKit\\Project1\\Squad.cpp",
+              "RelativeDocumentMoniker": "Project1\\Squad.cpp",
+              "ToolTip": "M:\\00 Programming GIT\\Tutorials\\Tutorial 02\\SquadToolKit\\Project1\\Squad.cpp",
+              "RelativeToolTip": "Project1\\Squad.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-09-22T08:57:09.246Z",
               "EditorCaption": ""
             },
             {
@@ -58,7 +58,7 @@
               "RelativeDocumentMoniker": "Project1\\main.cpp",
               "ToolTip": "M:\\00 Programming GIT\\Tutorials\\Tutorial 02\\SquadToolKit\\Project1\\main.cpp*",
               "RelativeToolTip": "Project1\\main.cpp*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAE4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-09-22T08:56:33.119Z",
               "EditorCaption": ""

@@ -4,7 +4,8 @@
 
 namespace Squad
 {
-	//Something Something...
+	void swapHealth(int* first, int* third);
+	int totalHealth(int const* values, int count);
 }
 
 #endif
