@@ -25,13 +25,13 @@ Use observed address values or symbolic labels that identify the same objects co
 
 | State | totalStock | availableStock | dispatchCount | Selected object | Stored pointer value | Pointer's own address | Dereferenced value, if valid |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Before stock update | | | | | | | |
-| After stock update | | | | | | | |
-| After retargeting/increment | | | | | | | |
-| After null reset | | | | | | | Not evaluated |
+| Before stock update |40 | 40| 0| availableStock| &availableStock|selectedQuantity | 40|
+| After stock update | 40| 15| 0| availableStock| &availableStock| selectedQuantity| 15|
+| After retargeting/increment | 40| 15| 1| dispatchCount| &dispatchCount|selectedQuantity | 1|
+| After null reset | 40| 15| 1| none|nullptr | selectedQuantity| Not evaluated |
 
-Explain selectedQuantity, *selectedQuantity and &selectedQuantity:
-Explain ownership and why non-null is not a universal safety guarantee:
+Explain selectedQuantity, *selectedQuantity and &selectedQuantity: Selected Quantity stores the adress that is pointed to. *selectedQuantity access that adress and &selectedQuantity gives the adress.
+Explain ownership and why non-null is not a universal safety guarantee: It doesnt own the onjects because it only points to  variables that exist and doesnt create or delete any.
 
 ## E — Tests
 

@@ -83,9 +83,43 @@ int main()
         return 1;
     }
 
+    int totalStock = stockTotal;
+    int availableStock = totalStock;
+    int dispatchCount = 0;
+
+    int dispatched = units;
+
+    if (dispatched > totalStock)
+    {
+        dispatched = totalStock;
+    }
+
+    int* selectedQuantity = &availableStock;
+
+    *selectedQuantity = *selectedQuantity - dispatched;
+
+    selectedQuantity = &dispatchCount;
+
+    if (dispatched > 0)
+    {
+        *selectedQuantity = *selectedQuantity + 1;
+    }
+
+    selectedQuantity = nullptr;
+
+    if (selectedQuantity == nullptr)
+    {
+        std::cout << "Nothing is selected." << std::endl;
+    }
+
+    std::cout << "Depot: " << depotName << std::endl;
     std::cout << "Batches: " << batchCount << std::endl;
-    std::cout << "Stock: " << stockTotal << std::endl;
     std::cout << "Low batches: " << lowBatchCount << std::endl;
+    std::cout << "Original stock: " << totalStock << std::endl;
+    std::cout << "Requested units: " << units << std::endl;
+    std::cout << "Dispatched units: " << dispatched << std::endl;
+    std::cout << "Remaining stock: " << availableStock << std::endl;
+    std::cout << "Dispatch count: " << dispatchCount << std::endl;
 
     Dispatch::printHeading();
 
