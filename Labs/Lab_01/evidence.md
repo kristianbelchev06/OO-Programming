@@ -3,7 +3,7 @@
 Repository URL:https://github.com/kristianbelchev06/OO-Programming.git
 Final commit identifier: submit separately if adding it here would create a new commit.
 Build configuration:
-Known unfinished requirements: D,E
+Known unfinished requirements:E
 
 ## A — Structure and diagnosis
 
