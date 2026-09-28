@@ -1,6 +1,6 @@
 # Practical Lab 1 — evidence
 
-Repository URL:
+Repository URL:https://github.com/kristianbelchev06/OO-Programming.git
 Final commit identifier: submit separately if adding it here would create a new commit.
 Build configuration:
 Known unfinished requirements:
@@ -13,10 +13,11 @@ Known unfinished requirements:
 | 2 | | | | |
 
 Build explanation (maximum 80 words):
+Dispatch.h declares Dispatch::printHeading() and dispatch.cpp provides its definition. Main.cpp includes the header and Dispatch::printHeading(), which makes the link connect the definition.
 
 ## B — Input recovery
 
-Explain the different jobs of state reset and input removal (two sentences):
+Explain the different jobs of state reset and input removal (two sentences): Resetting the stream allows it to be used again after a wrong answer has been put in. And after fixing the numbers or characters for then next answer it runs without a problem.
 
 ## D — Pointer trace
 
