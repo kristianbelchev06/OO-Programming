@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="TrainingBotLab/TrainingBotLab.vcxproj" />
+  <Project Path="TrainingBotLab/TrainingBotLab.vcxproj" Id="1df487ac-283f-45c7-af67-2b5527a5e7a2" />
 </Solution>

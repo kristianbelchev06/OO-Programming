@@ -5,6 +5,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{1DF487AC-283F-45C7-AF67-2B5527A5E7A2}|TrainingBotLab\\TrainingBotLab.vcxproj|M:\\00 Programming GIT\\Labs\\Lab_02\\TrainingBotLab\\TrainingBotLab\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{1DF487AC-283F-45C7-AF67-2B5527A5E7A2}|TrainingBotLab\\TrainingBotLab.vcxproj|solutionrelative:TrainingBotLab\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DF487AC-283F-45C7-AF67-2B5527A5E7A2}|TrainingBotLab\\TrainingBotLab.vcxproj|M:\\00 Programming GIT\\Labs\\Lab_02\\TrainingBotLab\\TrainingBotLab\\TrainingBot.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1DF487AC-283F-45C7-AF67-2B5527A5E7A2}|TrainingBotLab\\TrainingBotLab.vcxproj|solutionrelative:TrainingBotLab\\TrainingBot.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DF487AC-283F-45C7-AF67-2B5527A5E7A2}|TrainingBotLab\\TrainingBotLab.vcxproj|M:\\00 Programming GIT\\Labs\\Lab_02\\TrainingBotLab\\TrainingBotLab\\TrainingBot.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1DF487AC-283F-45C7-AF67-2B5527A5E7A2}|TrainingBotLab\\TrainingBotLab.vcxproj|solutionrelative:TrainingBotLab\\TrainingBot.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,9 +32,37 @@
               "RelativeDocumentMoniker": "TrainingBotLab\\Main.cpp",
               "ToolTip": "M:\\00 Programming GIT\\Labs\\Lab_02\\TrainingBotLab\\TrainingBotLab\\Main.cpp",
               "RelativeToolTip": "TrainingBotLab\\Main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-09-29T09:20:13.552Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TrainingBot.h",
+              "DocumentMoniker": "M:\\00 Programming GIT\\Labs\\Lab_02\\TrainingBotLab\\TrainingBotLab\\TrainingBot.h",
+              "RelativeDocumentMoniker": "TrainingBotLab\\TrainingBot.h",
+              "ToolTip": "M:\\00 Programming GIT\\Labs\\Lab_02\\TrainingBotLab\\TrainingBotLab\\TrainingBot.h",
+              "RelativeToolTip": "TrainingBotLab\\TrainingBot.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-09-29T09:37:09.418Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TrainingBot.cpp",
+              "DocumentMoniker": "M:\\00 Programming GIT\\Labs\\Lab_02\\TrainingBotLab\\TrainingBotLab\\TrainingBot.cpp",
+              "RelativeDocumentMoniker": "TrainingBotLab\\TrainingBot.cpp",
+              "ToolTip": "M:\\00 Programming GIT\\Labs\\Lab_02\\TrainingBotLab\\TrainingBotLab\\TrainingBot.cpp",
+              "RelativeToolTip": "TrainingBotLab\\TrainingBot.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-05T10:17:53.471Z",
               "EditorCaption": ""
             }
           ]
