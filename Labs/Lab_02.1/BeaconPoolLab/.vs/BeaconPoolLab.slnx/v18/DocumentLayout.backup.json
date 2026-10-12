@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\krist\\OneDrive\\Desktop\\New folder (2)\\OO-Programming\\Labs\\Lab_02.1\\BeaconPoolLab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3388F4A-27F6-4FD4-A7F1-F1794BC45FD3}|BeaconPoolLab\\BeaconPoolLab.vcxproj|C:\\Users\\krist\\OneDrive\\Desktop\\New folder (2)\\OO-Programming\\Labs\\Lab_02.1\\BeaconPoolLab\\BeaconPoolLab\\BeaconPool.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F3388F4A-27F6-4FD4-A7F1-F1794BC45FD3}|BeaconPoolLab\\BeaconPoolLab.vcxproj|solutionrelative:BeaconPoolLab\\BeaconPool.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3388F4A-27F6-4FD4-A7F1-F1794BC45FD3}|BeaconPoolLab\\BeaconPoolLab.vcxproj|C:\\Users\\krist\\OneDrive\\Desktop\\New folder (2)\\OO-Programming\\Labs\\Lab_02.1\\BeaconPoolLab\\BeaconPoolLab\\BeaconPool.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F3388F4A-27F6-4FD4-A7F1-F1794BC45FD3}|BeaconPoolLab\\BeaconPoolLab.vcxproj|solutionrelative:BeaconPoolLab\\BeaconPool.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3388F4A-27F6-4FD4-A7F1-F1794BC45FD3}|BeaconPoolLab\\BeaconPoolLab.vcxproj|C:\\Users\\krist\\OneDrive\\Desktop\\New folder (2)\\OO-Programming\\Labs\\Lab_02.1\\BeaconPoolLab\\BeaconPoolLab\\Receiver.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F3388F4A-27F6-4FD4-A7F1-F1794BC45FD3}|BeaconPoolLab\\BeaconPoolLab.vcxproj|solutionrelative:BeaconPoolLab\\Receiver.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3388F4A-27F6-4FD4-A7F1-F1794BC45FD3}|BeaconPoolLab\\BeaconPoolLab.vcxproj|C:\\Users\\krist\\OneDrive\\Desktop\\New folder (2)\\OO-Programming\\Labs\\Lab_02.1\\BeaconPoolLab\\BeaconPoolLab\\Receiver.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F3388F4A-27F6-4FD4-A7F1-F1794BC45FD3}|BeaconPoolLab\\BeaconPoolLab.vcxproj|solutionrelative:BeaconPoolLab\\Receiver.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3388F4A-27F6-4FD4-A7F1-F1794BC45FD3}|BeaconPoolLab\\BeaconPoolLab.vcxproj|C:\\Users\\krist\\OneDrive\\Desktop\\New folder (2)\\OO-Programming\\Labs\\Lab_02.1\\BeaconPoolLab\\BeaconPoolLab\\Beacon.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F3388F4A-27F6-4FD4-A7F1-F1794BC45FD3}|BeaconPoolLab\\BeaconPoolLab.vcxproj|solutionrelative:BeaconPoolLab\\Beacon.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3388F4A-27F6-4FD4-A7F1-F1794BC45FD3}|BeaconPoolLab\\BeaconPoolLab.vcxproj|C:\\Users\\krist\\OneDrive\\Desktop\\New folder (2)\\OO-Programming\\Labs\\Lab_02.1\\BeaconPoolLab\\BeaconPoolLab\\Beacon.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F3388F4A-27F6-4FD4-A7F1-F1794BC45FD3}|BeaconPoolLab\\BeaconPoolLab.vcxproj|solutionrelative:BeaconPoolLab\\Beacon.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3388F4A-27F6-4FD4-A7F1-F1794BC45FD3}|BeaconPoolLab\\BeaconPoolLab.vcxproj|C:\\Users\\krist\\OneDrive\\Desktop\\New folder (2)\\OO-Programming\\Labs\\Lab_02.1\\BeaconPoolLab\\BeaconPoolLab\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F3388F4A-27F6-4FD4-A7F1-F1794BC45FD3}|BeaconPoolLab\\BeaconPoolLab.vcxproj|solutionrelative:BeaconPoolLab\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\krist\\OneDrive\\Desktop\\New folder (2)\\OO-Programming\\Labs\\Lab_02.1\\BeaconPoolLab\\BeaconPoolLab\\Main.cpp",
+              "RelativeDocumentMoniker": "BeaconPoolLab\\Main.cpp",
+              "ToolTip": "C:\\Users\\krist\\OneDrive\\Desktop\\New folder (2)\\OO-Programming\\Labs\\Lab_02.1\\BeaconPoolLab\\BeaconPoolLab\\Main.cpp",
+              "RelativeToolTip": "BeaconPoolLab\\Main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-12T21:01:45.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BeaconPool.h",
+              "DocumentMoniker": "C:\\Users\\krist\\OneDrive\\Desktop\\New folder (2)\\OO-Programming\\Labs\\Lab_02.1\\BeaconPoolLab\\BeaconPoolLab\\BeaconPool.h",
+              "RelativeDocumentMoniker": "BeaconPoolLab\\BeaconPool.h",
+              "ToolTip": "C:\\Users\\krist\\OneDrive\\Desktop\\New folder (2)\\OO-Programming\\Labs\\Lab_02.1\\BeaconPoolLab\\BeaconPoolLab\\BeaconPool.h*",
+              "RelativeToolTip": "BeaconPoolLab\\BeaconPool.h*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-10-12T21:01:15.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Receiver.h",
+              "DocumentMoniker": "C:\\Users\\krist\\OneDrive\\Desktop\\New folder (2)\\OO-Programming\\Labs\\Lab_02.1\\BeaconPoolLab\\BeaconPoolLab\\Receiver.h",
+              "RelativeDocumentMoniker": "BeaconPoolLab\\Receiver.h",
+              "ToolTip": "C:\\Users\\krist\\OneDrive\\Desktop\\New folder (2)\\OO-Programming\\Labs\\Lab_02.1\\BeaconPoolLab\\BeaconPoolLab\\Receiver.h*",
+              "RelativeToolTip": "BeaconPoolLab\\Receiver.h*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-10-12T21:01:04.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Beacon.h",
+              "DocumentMoniker": "C:\\Users\\krist\\OneDrive\\Desktop\\New folder (2)\\OO-Programming\\Labs\\Lab_02.1\\BeaconPoolLab\\BeaconPoolLab\\Beacon.h",
+              "RelativeDocumentMoniker": "BeaconPoolLab\\Beacon.h",
+              "ToolTip": "C:\\Users\\krist\\OneDrive\\Desktop\\New folder (2)\\OO-Programming\\Labs\\Lab_02.1\\BeaconPoolLab\\BeaconPoolLab\\Beacon.h*",
+              "RelativeToolTip": "BeaconPoolLab\\Beacon.h*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-10-12T21:00:51.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BeaconPool.cpp",
+              "DocumentMoniker": "C:\\Users\\krist\\OneDrive\\Desktop\\New folder (2)\\OO-Programming\\Labs\\Lab_02.1\\BeaconPoolLab\\BeaconPoolLab\\BeaconPool.cpp",
+              "RelativeDocumentMoniker": "BeaconPoolLab\\BeaconPool.cpp",
+              "ToolTip": "C:\\Users\\krist\\OneDrive\\Desktop\\New folder (2)\\OO-Programming\\Labs\\Lab_02.1\\BeaconPoolLab\\BeaconPoolLab\\BeaconPool.cpp",
+              "RelativeToolTip": "BeaconPoolLab\\BeaconPool.cpp",
+              "ViewState": "AgIAABsAAAAAAAAAAAAQwEQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-12T21:00:42.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Receiver.cpp",
+              "DocumentMoniker": "C:\\Users\\krist\\OneDrive\\Desktop\\New folder (2)\\OO-Programming\\Labs\\Lab_02.1\\BeaconPoolLab\\BeaconPoolLab\\Receiver.cpp",
+              "RelativeDocumentMoniker": "BeaconPoolLab\\Receiver.cpp",
+              "ToolTip": "C:\\Users\\krist\\OneDrive\\Desktop\\New folder (2)\\OO-Programming\\Labs\\Lab_02.1\\BeaconPoolLab\\BeaconPoolLab\\Receiver.cpp*",
+              "RelativeToolTip": "BeaconPoolLab\\Receiver.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-12T21:00:29.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Beacon.cpp",
+              "DocumentMoniker": "C:\\Users\\krist\\OneDrive\\Desktop\\New folder (2)\\OO-Programming\\Labs\\Lab_02.1\\BeaconPoolLab\\BeaconPoolLab\\Beacon.cpp",
+              "RelativeDocumentMoniker": "BeaconPoolLab\\Beacon.cpp",
+              "ToolTip": "C:\\Users\\krist\\OneDrive\\Desktop\\New folder (2)\\OO-Programming\\Labs\\Lab_02.1\\BeaconPoolLab\\BeaconPoolLab\\Beacon.cpp*",
+              "RelativeToolTip": "BeaconPoolLab\\Beacon.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-12T21:00:09.727Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
