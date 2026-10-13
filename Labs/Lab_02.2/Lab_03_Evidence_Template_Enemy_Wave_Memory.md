@@ -1,13 +1,13 @@
 # Chapter 2 · Practical Lab 3 · Evidence
 ## Enemy wave memory console
 
-Name or student identifier: [complete]
+Name or student identifier: [complete] Kristian Belchev
 
-Date (YYYY-MM-DD): [complete]
+Date (YYYY-MM-DD): [complete] 13/10/2026
 
-Repository URL, if used: [complete / not used]
+Repository URL, if used: [complete / not used] https://github.com/kristianbelchev06/OO-Programming.git
 
-Visual Studio version: [complete]
+Visual Studio version: [complete] Visual Studio 2022
 
 Platform Toolset: v145 · Language: C++17 · Configuration: Debug · Platform: x64
 
@@ -29,7 +29,7 @@ Never deliberately run a double delete, use-after-delete, out-of-bounds access o
 
 **Project name:**
 
-[complete]
+[complete] EnemyWaveMemoryLab
 
 **Files created:**
 
@@ -55,12 +55,12 @@ Enemy wave memory lab
 
 **Did the empty project build and run successfully?**
 
-[yes / no]
+[yes / no] yes
 
 If no, briefly record the problem you fixed:
 
 [complete / not applicable]
-
+complete
 ---
 
 ## 02 · One dynamic Enemy
