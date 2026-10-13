@@ -1,0 +1,5 @@
+﻿  Enemy.cpp
+  EnemyWave.cpp
+  Main.cpp
+  Generating Code...
+C:\Users\C00324565\Desktop\New folder\OO-Programming\Labs\Lab_02.2\EnemyWaveMemoryLab\EnemyWaveMemoryLab\Enemy.cpp(12,1): error C4700: uninitialized local variable 'health' used
